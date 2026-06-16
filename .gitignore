@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 .env
 __pycache__/
 *.pyc
+=======
+.env
+__pycache__/
+*.pyc
+>>>>>>> e0eda05680ed9784cbf40fb1af540affb609656f
 bot.log
